@@ -1,16 +1,14 @@
-## Hi there 👋
+# Yandong Zhang
 
-<!--
-**zhang-yandong/zhang-yandong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at Dalian University of Technology, interested in robot learning, embodied intelligence, and long-horizon robotic manipulation.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Robot Learning
+- Embodied AI
+- 3D Diffusion Policy
+- Memory-Augmented Robotic Manipulation
+
+## Contact
+
+- Email: yandongz75@gmail.com
